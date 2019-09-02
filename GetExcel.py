@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 import xlrd
 
-locPath='G:\\车管家项目资料\\'
+# locPath='G:\\车管家项目资料\\'
+locPath='E:\\考勤\\杭走临安\\'
 
 def read_excel(path):
     truncatefile(path)
