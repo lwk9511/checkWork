@@ -3,9 +3,10 @@
 import pymysql
 
 
-host = '123.126.41.203'
-port='13306'
-user = 'root'
-pwd = 'Rzkj123!'
-db = 'steward'
+host = '*******'
+port='3306'
+user = '*******'
+pwd = '*******'
+db = '*******'
+
 def checkWork():
